@@ -16,3 +16,5 @@ Adding deployment
 
 ## How to Contribute
 
+### Copyright
+copyright 2020
