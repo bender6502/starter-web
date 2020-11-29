@@ -16,5 +16,7 @@ Adding deployment
 
 ## How to Contribute
 
+Please fork this repo first and then issue PR for review
+
 ### Copyright
 copyright 2020
