@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	human1 human1@whatever.com
     <name> -- <role> -- <twitter>
 
 # THANKS
